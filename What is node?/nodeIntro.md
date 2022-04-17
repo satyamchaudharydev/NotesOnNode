@@ -13,4 +13,4 @@ console.log(‘Hello Word’)
 2. On your **terminal**, Write node before your JS file
 `node script`
 
-### Hurray, now you know how to run javascript file on node environment.
+### Hurray, now you know how to run javascript file on the node environment.
